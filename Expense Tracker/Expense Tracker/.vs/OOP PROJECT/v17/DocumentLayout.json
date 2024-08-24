@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|c:\\users\\zohaib ali\\desktop\\oop project\\oop project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\resources\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\resources\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\deleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\deleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\deleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\deleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\resources\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\resources\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\oop project\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642842C5-5378-401A-9C3E-49F9B0A7FA65}|OOP PROJECT\\OOP PROJECT.csproj|solutionrelative:oop project\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signupform.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Signupform.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Signupform.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Signupform.cs",
+              "RelativeToolTip": "OOP PROJECT\\Signupform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:08:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loginform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Loginform.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Loginform.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Loginform.cs [Design]",
+              "RelativeToolTip": "OOP PROJECT\\Loginform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:54:25.539Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Home.Designer.cs",
+              "RelativeToolTip": "OOP PROJECT\\Home.Designer.cs",
+              "ViewState": "AQIAAAoCAAAAAAAAAAAUwBcCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:22:12.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signupform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Signupform.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Signupform.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Signupform.cs [Design]",
+              "RelativeToolTip": "OOP PROJECT\\Signupform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:48:21.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Resources\\Expenses.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Resources\\Expenses.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Resources\\Expenses.cs [Design]",
+              "RelativeToolTip": "OOP PROJECT\\Resources\\Expenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:36:45.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Home.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Home.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Home.cs [Design]",
+              "RelativeToolTip": "OOP PROJECT\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:01:02.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Home.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Home.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Home.cs",
+              "RelativeToolTip": "OOP PROJECT\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:36:07.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\DeleteForm.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\DeleteForm.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\DeleteForm.cs [Design]",
+              "RelativeToolTip": "OOP PROJECT\\DeleteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:08:10.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Expenses.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Resources\\Expenses.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Resources\\Expenses.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Resources\\Expenses.cs",
+              "RelativeToolTip": "OOP PROJECT\\Resources\\Expenses.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwD4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:22:40.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteForm.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\DeleteForm.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\DeleteForm.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\DeleteForm.cs",
+              "RelativeToolTip": "OOP PROJECT\\DeleteForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:08:12.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loginform.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Loginform.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Loginform.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Loginform.cs",
+              "RelativeToolTip": "OOP PROJECT\\Loginform.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwEEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:04:03.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Loginform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Loginform.Designer.cs",
+              "RelativeDocumentMoniker": "OOP PROJECT\\Loginform.Designer.cs",
+              "ToolTip": "C:\\Users\\Zohaib Ali\\Desktop\\OOP PROJECT\\OOP PROJECT\\Loginform.Designer.cs",
+              "RelativeToolTip": "OOP PROJECT\\Loginform.Designer.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAUwNIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:05:12.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
